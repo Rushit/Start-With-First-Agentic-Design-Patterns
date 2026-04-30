@@ -1,5 +1,7 @@
 # Start with First Agentic Design Patterns
 
+> **⚠️ Better Book Available** — This book will not be developed. After deeper review and feedback, I chose a different, more interactive resource that covers the same pattern in greater depth: [The Builder's Handbook (TBH): Agents That Think and Self-Improve](https://github.com/tbhbooks/Agents-That-Think-and-Self-Improve) — Design and Build a Coding Agent.  
+
 Welcome to the **Asdf Enterprise Inc.** journey—a practical, guide to building real agentic systems.
 
 This book follows the chaotic, hat-juggling owner of a SaaS company as they transition from shipping broken "one-shot" chatbots to architecting robust, autonomous agent teams.
